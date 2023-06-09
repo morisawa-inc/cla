@@ -48,7 +48,7 @@ You agree that contributions to Projects and information about contributions may
 
 ## 8. Governing Law/Jurisdiction. 
 
-This Agreement is governed by the laws of Japan and the parties consent to exclusive jurisdiction and venue in the federal courts sitting in Tokyo, Japan.
+This Agreement is governed by the laws of Japan and the parties agree to submit to exclusive jurisdiction of the Tokyo District Court in the first instance.
 
 ## 9. Entire Agreement/Assignment. 
 
